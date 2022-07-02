@@ -103,7 +103,7 @@ h1 {
 }
 .parallax {
   /* The image used */
-  background-image:"https://imgur.com/0z5O5Qv");
+  background-image: url("https://imgur.com/0z5O5Qv");
 
   /* Set a specific height */
   min-height:500px; 
