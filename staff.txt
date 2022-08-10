@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/css.css">
+
+</head>
+<body>
+<a name="home"></a>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<center class="centered"><h1>your server name</h1></center>
+<div class="parallax"></div>
+
+<ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="staff.html">Staff</a></li>
+  <li><a href="#contact">test</a></li>
+  <li style="float:right"><a class="active" href="#about">staff</a></li>
+</ul>
+
+
+
+
+
+<center><h2>Our Staff</h2></center>
+
+<br>
+
+
+<div class="row" >
+  <div class="column">
+    <div class="card">
+      <img src="https://minotar.net/helm/iamchalee" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>test</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://minotar.net/helm/iamchalee" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>test</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://minotar.net/helm/iamchalee" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>test</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+
+      </div>
+    </div>
+  </div>
+  
+    <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://minotar.net/helm/iamchalee" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>test</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+
+      </div>
+    </div>
+  </div>
+  
+    <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://minotar.net/helm/iamchalee" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>test</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+
+      </div>
+    </div>
+  </div>
+  
+    <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://minotar.net/helm/iamchalee" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>test</h2>
+        <p class="title">CEO & Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+
+      </div>
+    </div>
+  </div>
+  
+  
+  
+<div class="footer">
+  <p>Posted by: Hege Refsnes</p>
+  <p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+   <p>Made with <i class="em em-hearts"></i> by <a href="https://www.spigotmc.org/members/sivcarft0103.373025/">Sivcraft0103</a>.</p>
+</div>
