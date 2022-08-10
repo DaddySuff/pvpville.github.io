@@ -147,6 +147,12 @@ html {
   padding-left: 20px;
 }
 
+/* Staff column */
+.staffcolumn {   
+  float: left;
+  width: 95%;
+}
+
 /* Fake image */
 .fakeimg {
   background-color: #aaa;
