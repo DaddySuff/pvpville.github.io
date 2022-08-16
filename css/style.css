@@ -177,7 +177,7 @@ p {
 
 .brk-btn-bg {
     color: var(--title-color);
-    background: #fff;
+    background: ##000000;
 }
 
 .brk-btn::before {
@@ -240,7 +240,7 @@ p {
 }
 
 .main-content h2 {
-	color: #fff;
+	color: #000000;
 	font-size: 7em;
 	text-transform: uppercase;
 	font-weight: 100;
@@ -249,14 +249,14 @@ p {
 .main-content h4 {
 	font-size: 25px;
 	line-height: 25px;
-	color: #eee;
+	color: #000000;
 	font-weight: 400;
 }
 
 .main-content p {
 	font-size: 17px;
 	line-height: 25px;
-	color: #c5c5c5;
+	color: #000000;
 	margin-top: 15px;
 	max-width: 550px;
 	margin: 10px auto 0;
