@@ -240,7 +240,7 @@ p {
 }
 
 .main-content h2 {
-	color: #000000;
+	color: #fff;
 	font-size: 7em;
 	text-transform: uppercase;
 	font-weight: 100;
@@ -249,7 +249,7 @@ p {
 .main-content h4 {
 	font-size: 25px;
 	line-height: 25px;
-	color: #000000;
+	color: #fff;
 	font-weight: 400;
 }
 
